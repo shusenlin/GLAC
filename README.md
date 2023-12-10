@@ -1,7 +1,7 @@
 # GLAC
 This is the code for the paper: A Generalized Unbiased Risk Estimator for Learning with Augmented Classes (AAAI 2023).
 
-**1. The environment is as bellow: ** 
+**1. The environment is as bellow:** 
 - Python 3.7
 - numpy 1.21.5
 - scipy 1.7.3
